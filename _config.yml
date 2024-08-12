@@ -3,3 +3,5 @@ description: Developers documentation at stockinsights
 theme: just-the-docs
 
 url: https://stockinsights-ai.github.io
+
+favicon_ico: "/assets/images/favicon.ico"
